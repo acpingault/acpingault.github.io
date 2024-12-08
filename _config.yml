@@ -24,8 +24,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Alex's Thoughts
-email: alex@knottysolutions.com
+title: Ping Report
+email: alex@pingault.net
 author: Alex P
 
 # Copyright setting
@@ -40,13 +40,13 @@ author: Alex P
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
+copyright: "Copyright (cleft) 2023-2024 Alex Pingault"
 
 description: >- # this means to ignore newlines until "baseurl:"
 
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://www.pingault.net" # the base hostname & protocol for your site, e.g. https://example.com
 favicon: "" # the favicon for your site
 
 # Yat date format
